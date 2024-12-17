@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+header{
+  border-bottom: 1px solid gray;
+}
+
+article{
+  padding: 20px;
+  background-color: rgb(207, 201, 201);
+}
+
+h1{
+  text-align: start;
+  
+}
+
+.card{border-radius: 1px solid gray;}
+.card-header{border-radius: 1px solid gray;
+background-color: black;
+color: white;}
+.card-body{border-radius: 1px solid gray;
+background: lightblue;}
+
+.App-header {
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
